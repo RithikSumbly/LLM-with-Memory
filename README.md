@@ -2,8 +2,6 @@
 
 Context management for long Gemini chats. Instead of sending the full history every turn, this keeps pinned facts + a running summary + recent messages.
 
-**Full walkthrough:** see [PROJECT.md](PROJECT.md)
-
 ## setup
 
 ```bash
